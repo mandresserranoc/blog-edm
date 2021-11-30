@@ -335,12 +335,12 @@ iframe {
 .btn-outline-main {
   background: #fff;
   color: #346eda;
-  border: 1px solid #346eda;
+  border: 1px solid #4B1C81;
 }
 .btn-outline-main:hover,
 .btn-outline-main:focus,
 .btn-outline-main.active {
-  background: #346eda;
+  background: #4B1C81;
   color: #fff;
 }
 .form-group {
